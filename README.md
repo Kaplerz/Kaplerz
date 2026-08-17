@@ -2,9 +2,9 @@
 
 # Guilherme Kapler
 
-### Logística · Dados · Software
+**Software Engineering Student**
 
-**Analista de Transportes → Engenharia de Software**
+Python · Back-end · Data · Automation
 
 <br>
 
@@ -17,160 +17,39 @@
 
 ---
 
-## Sobre mim
+## About
 
-Atuo em **operações de Last Mile, gestão de frota e análise de indicadores**, trabalhando diretamente com dados e sistemas utilizados na operação.
+Software Engineering student focused on **Python, back-end development, data and automation**.
 
-Atualmente curso **Engenharia de Software** e estou construindo minha transição para desenvolvimento, começando por **Python, lógica de programação, estruturas de dados e Git**.
-
-Meu objetivo é unir a experiência que já tenho em operações com engenharia de software para criar **automação, ferramentas e sistemas que resolvam problemas reais**.
-
-```python
-perfil = {
-    "nome": "Guilherme Kapler",
-    "área_atual": "Logística e Operações",
-    "formação": "Engenharia de Software",
-    "foco": [
-        "Python",
-        "Back-end",
-        "Automação",
-        "Dados"
-    ],
-    "objetivo": "Transformar problemas operacionais em soluções de software"
-}
-```
+Currently building my foundation in programming and developing practical projects to turn ideas and real-world problems into software solutions.
 
 ---
 
-## O que estou construindo
+## Currently learning
 
-<table>
-<tr>
-<td width="50%">
+`Python` `Git` `Data Structures` `Programming Logic`
 
-### 🐍 Python
+## Exploring next
 
-* Lógica de programação
-* Estruturas de dados
-* Funções e módulos
-* Automação de tarefas
-* Manipulação de dados
-
-</td>
-
-<td width="50%">
-
-### ⚙️ Próximos passos
-
-* APIs REST
-* Back-end
-* PostgreSQL
-* Docker
-* Cloud / AWS
-
-</td>
-</tr>
-</table>
+`APIs REST` `PostgreSQL` `Docker` `AWS`
 
 ---
 
-## Experiência que trago
+## Projects
 
-Minha entrada em tecnologia não começou apenas no código.
+Building practical projects focused on:
 
-Antes de programar, já trabalho diariamente com problemas que envolvem **dados, processos, sistemas e tomada de decisão**.
-
-### Operações
-
-* Last Mile
-* Gestão de frota
-* Planejamento e atribuição de rotas
-* Análise de disponibilidade
-* Indicadores operacionais
-
-### Dados
-
-* Excel
-* Google Sheets
-* KPIs
-* Análise de desvios
-* Relatórios e acompanhamento operacional
-
-### Sistemas
-
-* TMS
-* WMS
-* WPS
-* OpsClock
-
-> **Entender o problema antes de pensar na solução.**
+* Python
+* Automation
+* Data analysis
+* Back-end development
 
 ---
-
-## Atualmente estudando
-
-```text
-Python
-████████████░░░░░░░░
-
-Lógica de Programação
-████████████████░░░░
-
-Git / GitHub
-███████░░░░░░░░░░░░░
-
-Estruturas de Dados
-█████░░░░░░░░░░░░░░░
-
-Back-end
-██░░░░░░░░░░░░░░░░░░
-
-Banco de Dados
-██░░░░░░░░░░░░░░░░░░
-```
-
-> O objetivo não é colecionar tecnologias. É construir projetos e entender cada camada do processo.
-
----
-
-## Projetos
-
-### 🚧 Em construção
-
-Estou utilizando este GitHub para documentar minha evolução através de projetos práticos.
-
-**Próximos projetos:**
-
-* Automação de rotinas operacionais com Python
-* Análise de dados de operações logísticas
-* APIs REST
-* Aplicações com banco de dados
-* Projetos voltados para automação e logística
-
----
-
-## GitHub
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-KaplerZ-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/KaplerZ)
-
-</div>
-
----
-
-## Contato
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/guilherme-kapler-51449727a/)
 
-</div>
-
-<br>
-
-<div align="center">
-
-**Logística → Dados → Software**
+**Building. Learning. Improving.**
 
 </div>
