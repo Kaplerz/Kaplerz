@@ -4,7 +4,7 @@
 
 **Software Engineering Student**
 
-Python · Back-end Development · Data · Automation
+Python · Backend Development · Data · Automation
 
 <br>
 
@@ -19,19 +19,19 @@ Python · Back-end Development · Data · Automation
 
 ## About
 
-Software Engineering student building a strong foundation in **Python, programming logic, data structures and back-end development**.
+Software Engineering student building a strong foundation in **Python, programming logic, data structures, and backend development**.
 
-Currently developing practical projects, strengthening problem-solving skills and turning ideas and real-world problems into software solutions.
+Currently focused on building practical projects, improving problem-solving skills, and learning how to develop reliable software solutions.
 
 ---
 
 ## Currently learning
 
-`Python` · `Programming Logic` · `Data Structures` · `Git`
+`Python` · `Programming Logic` · `Data Structures` · `Git` · `SQL`
 
 ## Next technologies
 
-`SQL` · `PostgreSQL` · `REST APIs` · `FastAPI` · `Docker`
+`PostgreSQL` · `HTTP` · `JSON` · `REST APIs` · `FastAPI` · `Docker` · `Linux`
 
 ---
 
@@ -39,14 +39,14 @@ Currently developing practical projects, strengthening problem-solving skills an
 
 Building practical projects focused on:
 
-- 🐍 Python
+- 🐍 Python development
 - ⚙️ Automation
-- 📊 Data analysis
-- 🔧 Back-end development
+- 📊 Data processing and analysis
+- 🔧 Backend development
 
 ### Featured projects
 
-> Currently building and documenting projects as my technical skills evolve.
+Currently building and documenting projects as my technical skills evolve.
 
 ---
 
@@ -55,7 +55,7 @@ Building practical projects focused on:
 ```text
 Python
    ↓
-Intermediate / Advanced Python
+Intermediate Python
    ↓
 SQL & PostgreSQL
    ↓
@@ -65,6 +65,8 @@ FastAPI
    ↓
 Authentication · Testing
    ↓
-Docker
+Docker · Linux
    ↓
 Deployment & Cloud
+   ↓
+CI/CD
